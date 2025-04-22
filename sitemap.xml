@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sites.google.com/view/papijunior/</loc>
+    <loc>https://www.papijunior.com.br/</loc>
     <lastmod>2025-04-21</lastmod>
     <priority>1.0</priority>
   </url>
+  <!-- Adicione mais URLs abaixo conforme seu site -->
+  <!-- <url> -->
+  <!--   <loc>https://www.papijunior.com.br/outra-pagina</loc> -->
+  <!--   <lastmod>2025-04-21</lastmod> -->
+  <!--   <priority>0.8</priority> -->
+  <!-- </url> -->
 </urlset>
